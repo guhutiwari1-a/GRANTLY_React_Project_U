@@ -193,7 +193,7 @@ export default function App() {
               </div>
             </>
           )}
-          <footer><span>© 2026 GRANTLY · HACKATHON DEMO</span><span>Built for the dreams you're working towards <i>✦</i></span><a href="https://scholarships.gov.in/" target="_blank" rel="noreferrer">Official NSP <ExternalLink size={12} /></a></footer>
+          <footer><span>© 2026 GRANTLY </span><span>Built for the dreams you're working towards <i>✦</i></span><a href="https://scholarships.gov.in/" target="_blank" rel="noreferrer">Official NSP <ExternalLink size={12} /></a></footer>
         </div>
       </main>
 
